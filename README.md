@@ -13,7 +13,7 @@
 <h2>Reach out to me</h2>
 <div align="center">
   
-  [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/BurakOzcancf)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' >](https://www.linkedin.com/in/burakozcancf/)  [<img src='https://raw.githubusercontent.com/BurakOzcancf/Portfolio/master/public/favicon-32x32.png?token=GHSAT0AAAAAABQ4KZBIORAWGIGS2MKU7OJGYTLALVQ' alt='website'>](https://burakozcan.netlify.app/)    
+  [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/BurakOzcancf)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' >](https://www.linkedin.com/in/burakozcancf/)  [<img src='https://badgen.net/badge/burakozcan/portfolio/blue' alt='website'>](https://burakozcan.netlify.app/)    
 </div>
 
 
